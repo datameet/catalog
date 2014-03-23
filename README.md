@@ -14,3 +14,7 @@ List of datasets shared in the datameet google group.
 9. [Chhattisgarh 2013 election results](https://www.dropbox.com/s/vude8hbtupp8tda/2013-Chg-Delhi-MP-Raj-Assembly-Result.csv)
 10. [Rajasthan Rainfall Data (1957 to 2011)](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2FMnjtme&sa=D&sntz=1&usg=AFQjCNHtx0E_1gd8psb-XZagBV1u5a9xxg)
 11. [Few hospital addresses with coordinates](https://www.google.com/fusiontables/DataSource?snapid=S443177mn68)
+12. [Bangalore schools with coordinates](http://klp.org.in/rawdata/Bangalore_schools.csv)
+13. [Bangalore preschools with coordinates](http://klp.org.in/rawdata/Bangalore_preschools.csv)
+14. [India Budget Data](https://docs.google.com/spreadsheet/ccc?key=0Av599tR_jVYgdGZndXkyZ1BWRWtweE5YT1owOWJKOUE&hl=en_GB#gid=0)
+15. [Madhya Pradesh State Electricity Board Data](https://classic.scraperwiki.com/scrapers/madhya_pradesh_state_electricity_board/)
