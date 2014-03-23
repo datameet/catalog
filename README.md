@@ -12,3 +12,5 @@ List of datasets shared in the datameet google group.
 7. [Karnataka AC SVG](https://groups.google.com/forum/#!searchin/datameet/has$3Aattachment/datameet/DoBu3LsO5ac/YjXgWaRKlFgJ)
 8. [karnataka 2013 election results](https://groups.google.com/group/datameet/attach/e2bf1ddabd5dfacf/karnataka-2013-consolidated.xlsx?part=4&authuser=0)
 9. [Chhattisgarh 2013 election results](https://www.dropbox.com/s/vude8hbtupp8tda/2013-Chg-Delhi-MP-Raj-Assembly-Result.csv)
+10. [Rajasthan Rainfall Data (1957 to 2011)](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2FMnjtme&sa=D&sntz=1&usg=AFQjCNHtx0E_1gd8psb-XZagBV1u5a9xxg)
+11. [Few hospital addresses with coordinates](https://www.google.com/fusiontables/DataSource?snapid=S443177mn68)
