@@ -18,3 +18,5 @@ List of datasets shared in the datameet google group.
 13. [Bangalore preschools with coordinates](http://klp.org.in/rawdata/Bangalore_preschools.csv)
 14. [India Budget Data](https://docs.google.com/spreadsheet/ccc?key=0Av599tR_jVYgdGZndXkyZ1BWRWtweE5YT1owOWJKOUE&hl=en_GB#gid=0)
 15. [Madhya Pradesh State Electricity Board Data](https://classic.scraperwiki.com/scrapers/madhya_pradesh_state_electricity_board/)
+16. [PC Map - Shape files](https://github.com/datameet/maps)
+17. [Electrol Data as per final publication - Summary 2014](http://www.eci-polldaymonitoring.nic.in/erollpublic/)
