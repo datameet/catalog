@@ -20,3 +20,4 @@ List of datasets shared in the datameet google group.
 15. [Madhya Pradesh State Electricity Board Data](https://classic.scraperwiki.com/scrapers/madhya_pradesh_state_electricity_board/)
 16. [PC Map - Shape files](https://github.com/datameet/maps)
 17. Electrol Data as per final publication - Summary 2014 [EC Web Page](http://www.eci-polldaymonitoring.nic.in/erollpublic/) or  [CSV format](https://github.com/datameet/india-election-data/blob/master/constituencies/2014-electoral-rolls.csv) (Thanks Avinash)
+18. [Indian Premier League 2008-2019 Match data](https://www.kaggle.com/nowke9/ipldata)
